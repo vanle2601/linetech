@@ -26,10 +26,26 @@ const products = [
   {
     id: 4,
     name: "iPhone 12 Pro Max",
-    desc: "7.1-inch display",
+    desc: "6.12-inch display",
     price: "999",
     image:
       "https://res.cloudinary.com/dl3ayzojn/image/upload/v1677982137/linetech/galaxyS_ljnyzu.png",
+  },
+  {
+    id: 5,
+    name: "iPhone 14 Pro",
+    desc: "7.1-inch display",
+    price: "1499",
+    image:
+      "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683252060/linetech/ip14_vjolmf.png",
+  },
+  {
+    id: 6,
+    name: "Galaxy Z Flip 3",
+    desc: "6.7-inch display",
+    price: "599",
+    image:
+      "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683252258/linetech/flip_z_oqqpwl.webp",
   },
 ];
 
