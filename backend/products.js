@@ -47,6 +47,30 @@ const products = [
     image:
       "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683252258/linetech/flip_z_oqqpwl.webp",
   },
+  {
+    id: 7,
+    name: "OPPO Find N2 Flip",
+    desc: "5.2-inch display",
+    price: "1499",
+    image:
+      "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683253669/linetech/oppo_kkwkfv.jpg",
+  },
+  {
+    id: 8,
+    name: "AirPods (3rd generation)",
+    desc: "Lightning Charging Case",
+    price: "279",
+    image:
+      "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683253876/linetech/airpod_snu27q.jpg",
+  },
+  {
+    id: 9,
+    name: "JBL Flip Essential 2",
+    desc: "Portable Waterproof Speaker",
+    price: "95",
+    image:
+      "https://res.cloudinary.com/dl3ayzojn/image/upload/v1683253994/linetech/jbl_qs7df8.jpg",
+  },
 ];
 
 module.exports = products;
